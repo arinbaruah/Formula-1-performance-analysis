@@ -18,3 +18,5 @@ This repository contains the public files for the Formula 1 data analysis perfor
 ![](https://github.com/arinbaruah/Formula-1-performance-analysis/blob/main/Austrian_GP/marked_gear_Shifts.png)
 
 ![](https://github.com/arinbaruah/Formula-1-performance-analysis/blob/main/Austrian_GP/sq_comparison_aut.png)
+
+![](https://github.com/arinbaruah/Formula-1-performance-analysis/blob/main/Austrian_GP/Ver_laps_race_aut24.png)
