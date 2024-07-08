@@ -21,6 +21,6 @@ This repository contains the public files for the Formula 1 data analysis perfor
 
 ![](https://github.com/arinbaruah/Formula-1-performance-analysis/blob/main/Austrian_GP/Ver_laps_race_aut24.png)
 
-## British GP
+## 3. British GP
 
 ![](https://github.com/arinbaruah/Formula-1-performance-analysis/blob/main/British_GP/s3_gbr_top_speed.png)
