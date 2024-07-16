@@ -24,3 +24,5 @@ This repository contains the public files for the Formula 1 data analysis perfor
 ## 3. British GP
 
 ![](https://github.com/arinbaruah/Formula-1-performance-analysis/blob/main/British_GP/s3_gbr_top_speed.png)
+
+![](https://github.com/arinbaruah/Formula-1-performance-analysis/blob/main/British_GP/s3_gbr_comp.png)
